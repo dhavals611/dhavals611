@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Studying Masters in Computer Science at Arizona State University. Looking for internship opportunities in Application/Software Developement
+
 <!--
 **dhavals611/dhavals611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
